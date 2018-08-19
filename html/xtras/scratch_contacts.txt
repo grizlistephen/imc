@@ -1,0 +1,165 @@
+					<div class="row contact">       
+					<div class="col-xs-12 col-sm-12 col-lg-2">	
+					  <a href="http://www.internationalmeditationcentre.org/introduction.html"><script>document.write(centres[0].centre);</script></a>
+					</div>    
+					<div class="col-xs-12 col-sm-12 col-lg-10">
+					  International Meditation Centre<br>Splatts House, Heddington, Calne, SN11 0PE, UK<br>
+					  Tel: <script type="text/javascript">munge(centres[0].phone, true);</script>, Fax: <script type="text/javascript">munge(centres[0].fax, true);</script><br>
+					  Email: <script type="text/javascript">munge(centres[0].email);</script>	 
+					</div>
+				  </div>
+	
+				<div class="row contact">       
+				  <div class="col-xs-12 col-sm-12 col-lg-2">	
+					<a href="http://www.imcnsw.com">Australia NSW</a>
+				  </div>  
+				  <div class="col-xs-12 col-sm-12 col-lg-10">
+					International Meditation Centre<br>PO Box 3059, Bonnells Bay, NSW 2264, Australia<br>
+					Tel: <script type="text/javascript">munge("+61 2 4970 5433", true);</script>, Fax: <script type="text/javascript">munge("+61 2 4970 5749", true);</script><br>
+					Email: <script type="text/javascript">munge("10DAYSvipassanacourse@IMCNSW.COM");</script>
+				  </div>
+				</div>
+	
+				<div class="row contact">       
+				  <div class="col-xs-12 col-sm-12 col-lg-2">	
+					<a href="http://www.imcperth.org">Australia WA</a>
+				  </div>
+				  <div class="col-xs-12 col-sm-12 col-lg-10">
+					International Meditation Centre<br>1525 Jacoby Street, Mahogany Creek, WA 6072, Australia<br>
+					Tel: <a href="tel:+61892952644">+61 8 9295 2644</a>, Fax: <a href="tel:+61892953435">+61 8 9295 3435</a><br>
+					Email: <script type="text/javascript">munge("IMCPERTHmail@IINET.NET.AU");</script> 
+				  </div>
+				</div>
+	   
+				<div class="row contact">       
+				  <div class="col-xs-12 col-sm-12 col-lg-2">	
+					<a href="http://www.imc-austria.com">Austria</a>
+				  </div>  
+				   <div class="col-xs-12 col-sm-12 col-lg-10">
+					International Meditation Centre<br>St. Michael 6, 9130 Poggersdorf, Austria<br>
+					Tel: <a href="tel:+4342242820">+43 4224 2820</a>, Fax: <a href="tel:+434224282032">+43 4224 2820 32</a><br>
+					Email: <script type="text/javascript">munge("mail@INTERNATIONAL-MEDITATIONCENTRE.ORG");</script><!-- "mail@imc-austria.com" -->	   
+				   </div>
+				</div>
+
+				<div class="row contact">       
+				  <div class="col-xs-12 col-sm-12 col-lg-2">	
+					<a href="http://www.ubakhin.org">USA</a>
+				  </div>
+				   <div class="col-xs-12 col-sm-12 col-lg-10">
+					International Meditation Center<br>4920 Rose Drive, Westminster MD 21158, USA<br>
+					Tel: <a href="tel:+1 4103467889">+1 410 346 7889</a><br>
+					Email: <script type="text/javascript">munge("IMCusa@UBAKHIN.ORG");</script>	 
+				   </div>
+				</div>
+	
+				<div class="row contact">       
+				  <div class="col-xs-12 col-sm-12 col-lg-2">	
+					<b>Canada</b>
+				  </div>
+	  
+				   <div class="col-xs-12 col-sm-12 col-lg-10">
+					IMC Canada<br>4 Old York Crescent, Kitchener, Ontario, N2B 3G3, Canada<br>
+					Tel: <a href="tel:+15198960533">+1 519 896 0533</a><br>
+				   </div>
+				</div>
+	
+				<div class="row contact">       
+				  <div class="col-xs-12 col-sm-12 col-lg-2">	
+					<a href="http://www.subk-vipassana.de">Germany</a>
+				  </div>
+				  <div class="col-xs-12 col-sm-12 col-lg-10">
+					 Sayagyi U Ba Khin Gesellschaft<br>
+					 In der Wann 39, 35037 Marburg, Germany<br>
+					 Tel: <a href="tel:+49642134660">+49 6421 34 660</a><br>	 
+				  </div>
+				</div>
+	  
+				<div class="row contact">       
+				  <div class="col-xs-12 col-sm-12 col-lg-2">	
+					<a href="http://www.ubakhin.eu">Italy</a>
+				  </div>
+				  <div class="col-xs-10 col-sm-12 col-lg-10">
+					Mr Renzo Fedele<br>
+					Via Euganea 94, 35033 Bresseo PD, Italy<br>
+					Tel: <a href="tel:+39 0499900752">+39 049 9900 752</a><br>	 
+					Email: <script type="text/javascript">munge("RENZO1FEDexpress@YAHOO.IT");</script>
+				  </div>
+				</div>	  
+  
+				<div class="row contact">       
+				  <div class="col-xs-12 col-sm-12 col-lg-2">	
+					<a href="http://www.subakhin.org">Japan</a>
+				  </div>
+				  <div class="col-xs-12 col-sm-12 col-lg-10">
+					Sayagyi U Ba Khin Memorial Trust<br>
+					2-2-22 Minato-Machi #209, Naniwa-ku, Osaka City 556-0017, Japan<br>
+					Tel./Fax: <a href="tel:+81666492105">+81 6 6649 2105</a><br>	 
+					Email: <script type="text/javascript">munge("EMERYworldwide@WALTZ.PLALA.OR.JP");</script>
+				  </div>	
+				</div>
+  
+				<div class="row contact">       
+				  <div class="col-xs-12 col-sm-12 col-lg-2">	
+					<a href="http://www.ubakhin.net">Netherlands</a>
+				  </div>
+				  <div class="col-xs-12 col-sm-12 col-lg-10">
+					Sayagyi U Ba Khin Stichting, Centrumlaan 10, 6869 VE Heveadorp, Netherlands<br>
+					Tel: <a href="tel:+31263332554">+31 26 3332554</a><br>	 
+					Email: <script type="text/javascript">munge("INFOmoniek@UBAKHIN.NET");</script>
+				  </div>	
+				</div>
+	
+				<div class="row contact">       
+				  <div class="col-xs-12 col-sm-12 col-lg-2">	
+					<b>Singapore</b>
+				  </div>
+				  <div class="col-xs-12 col-sm-12 col-lg-10">
+					Sayagyi U Ba Khin Memorial Association<br>522 East Coast Road, #12-03 Ocean Park, Singapore 458966<br>
+					Tel: <a href="tel:+6562422389">+65 6242 2389</a>, Mobile: <a href="tel:+6581251823">+65 8125 1823</a><br>	 
+					Email: <script type="text/javascript">munge("LIMSONGTENG@GMAIL.COM");</script>
+				  </div>	
+				</div>
+	
+				<div class="row contact">       
+				  <div class="col-xs-12 col-sm-12 col-lg-2">	
+					<a href="http://www.ubakhin.ch">Switzerland</a>
+				  </div>
+				  <div class="col-xs-12 col-sm-12 col-lg-10">
+					Sayagyi U Ba Khin Gesellschaft<br>c/o Eugen Jung, Abendstrasse 30/119, 3018 Bern, Switzerland<br>
+					Tel: <a href="tel:+41319916141">+41 31 991 6141</a><br>	 
+					Email: <script type="text/javascript">munge("EUGEN.JUNGvipassana@HISPEED.CH");</script>
+				  </div>	
+				</div>
+  
+				<div class="row contact">       
+				  <div class="col-xs-12 col-sm-12 col-lg-2">	
+					<b>Belgium</b>
+				  </div>
+				  <div class="col-xs-12 col-sm-12 col-lg-10">
+					Address as for Netherlands<br>
+					Tel./Fax: <a href="tel:+3223514559">+32 2 351 4559</a><br>	 
+				  </div>	
+				</div>
+  
+				<div class="row contact">       
+				  <div class="col-xs-12 col-sm-12 col-lg-2">	
+					<b>USA</b><br><small>West Coast</small>
+				  </div>
+				  <div class="col-xs-12 col-sm-12 col-lg-10">
+					Mr Joe McCormack, 23 Via Capistrano, Tiburon, CA 94920, USA<br>
+					Tel: <a href="tel:+14157890153">+1 415 789 0153</a>, Fax: <a href="tel:+14157890193">+1 415 789 0193</a><br>	 
+					Email: <script type="text/javascript">munge("MCCORMACK23vipassana@COMCAST.NET");</script>
+				  </div>	
+				</div>
+  
+				<div class="row contact">       
+				  <div class="col-xs-12 col-sm-12 col-lg-2">	
+					<b>Ukraine</b>
+				  </div>
+				  <div class="col-xs-12 col-sm-12 col-lg-10">
+					Mr Alexandre Nossov, Glushkova ave, h. 45, app. 37, Kiev 03187, Ukraine<br>
+					Tel: <a href="tel:+380631542077">+380 63 154 20 77</a><br>	 
+					Email: <script type="text/javascript">munge("ALEXANDRE8N@GMAIL.COM");</script>
+				  </div>	
+				</div>

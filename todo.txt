@@ -1,0 +1,16 @@
+<!--  									-->
+<!--  	TODO::							-->
+<!--  									-->
+<!-- 	Task description				-->
+<!-- 	 								-->
+<!--    Person							-->
+<!--  									-->
+<!--  	Date finished:					-->
+<!--  									-->
+<!--  									-->
+<!--  	Comment:						-->
+<!--  									-->
+<!--  									-->
+
+
+Steve use AJAX for date display/update so alternative can be displayed if server unavailable...

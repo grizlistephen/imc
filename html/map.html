@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+
+<!--  									-->
+<!--  	TODO::							-->
+<!--  									-->
+<!-- 	Assess map functionality		-->
+<!-- 	& accuracy						-->
+<!--  	& pricing						-->
+<!--  	use open street maps?			-->
+<!--  									-->
+<!--    Steve							-->
+<!--  									-->
+<!--  	Date finished: 					-->
+<!--  									-->
+<!--  	Comment: 						-->
+<!--  			 						-->
+<!--  									-->	
+
+<html lang="en">
+  <head>
+    <title>IMC NSW Map</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <meta name="Steve Etherington" content="International Meditation Centre NSW Map.">
+    <style>
+      html, body, #map_canvas {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+      }
+    </style>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+    <script>
+		var map, marker, infowindow;
+		function init() {
+			var mapOptions = {
+				zoom: 8,
+				center: new google.maps.LatLng(-33.111306, 151.5588556),
+				mapTypeId: google.maps.MapTypeId.ROADMAP
+			};
+			map = new google.maps.Map(document.getElementById('map_canvas'), mapOptions);
+			marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(-33.111306, 151.5588556)});
+			infowindow = new google.maps.InfoWindow({content:"<b>International Meditation Centre, NSW</b><br/>54 Cessnock Road<br/> Sunshine, NSW, Australia, 2264" });
+			google.maps.event.addListener(marker, "click", function(){
+					infowindow.open(map,marker);
+				});
+			infowindow.open(map,marker);
+		}
+
+		google.maps.event.addDomListener(window, 'load', init);
+		google.maps.event.addDomListener(window, "resize", function() {
+			var center = map.getCenter();
+			google.maps.event.trigger(map, "resize");
+			map.setCenter(center); 
+		});
+    </script>
+  </head>
+  <body>
+    <div id="map_canvas"></div>
+  </body>
+</html>
+<!--
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=151.5442943572998%2C-33.13072315906383%2C151.59334659576416%2C-33.101895819445275&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/#map=15/-33.1163/151.5688">View Larger Map</a></small>
+
+http://open.mapquest.com/?version=1.0&hk=8-y2MJC1NR
+
+http://mapq.st/?q=-33.111306, 151.5588556
+
+
+https://maps.google.com?saddr=Current+Location&daddr=-33.1105052, 151.56057959999998
+Sydney: -33.8600, 151.2094
+-33.111306, 151.5588556
+-33.1105052, 151.56057959999998
+
+OPENSTREETMAP WITH LOCATION MARKER
+How to create a map with a location marker
+OpenStreetMap Logo OpenStreetMap is a free to use mapping service, maintained by a group of volunteers in a manner similar to Wikipedia.
+
+This article explains how to create a link to a map with a marker symbol on the chosen location.
+
+Enter a search term in the search box, for example "cineworld edinburgh". You will get a set of results in the search results bar. Clicking on the result will produce a map centered on that location with a marker pointing to this spot.
+
+However, the marker may not  be in the exact position you need it. In this case, double-click on the desired location; this will re-center the map at this point; it will also zoom in by one increment. The location marker will still be displayed in the original  position.
+
+Adjust the zoom level to your requirement.
+
+Now click on the "Permalink" at the bottom right of the map: this will reload the page with a permanent URL in the browser's address bar specifying the latitude and longitude of the chosen location as well as the chosen zoom level:
+
+http://www.openstreetmap.org/?lat=-33.111306&lon=151.5588556&zoom=15&layers=M
+However, this link will show the map without location marker. To display the map with a marker, modify the link by prefixing the longitude and latitude parameters with an "m":
+-33.1105052, 151.56057959999998
+http://www.openstreetmap.org/?mlat=-33.111306&mlon=151.5588556&zoom=15&layers=M
+-->

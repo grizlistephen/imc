@@ -1,0 +1,15 @@
+/* 
+	form.css
+*/
+/* override bootstrap paragraph */
+p {
+	font-size: 1em;
+}
+
+#emailErrorDisplay{
+	font-size: 1em;
+	font-family:helvetica;
+	color:red;
+	text-align:center;
+	width:100%;
+}
